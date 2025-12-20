@@ -50,14 +50,3 @@ This section is for Product page css
     color: #555;
     font-size: 16px;
 }
-
-.product-lists {
-    display: flex;
-    flex-direction: row;             /* space between cards */
-}
-
-.product-lists .card {
-    background-color: #e7eaf1;
-    padding: 20px;
-    flex: 1;                /* cards take equal width */
-}
