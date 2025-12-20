@@ -1,12 +1,12 @@
 # ToDo tasks 
 ### Home page
-   - Navbar
-   - Photos
-   - Quotes
+   - [x] Navbar
+   - [ ] Photos
+   - [ ] Quotes
 ### Product
-   - Card
+   - [ ] Card
 ### Contact us
-   - Name
-   - Email
-   - Phone
+   - [ ] Name
+   - [ ] Email
+   - [ ] Phone
 ### Footer
