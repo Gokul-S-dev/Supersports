@@ -28,7 +28,7 @@ This section is for Home page css
         }
         .super h1 {
             margin-bottom: 10px;
-            color: #09072b;
+            color: #000000;
         }
         .super p {
             font-size: 18px;
@@ -36,7 +36,7 @@ This section is for Home page css
 
         /* Navbar */
         .navbar {
-            background-color: #2544a89a;
+            background-color: #b341ffb0;
             padding: 15px 30px;
             display: flex;
             align-items: center;
@@ -47,7 +47,7 @@ This section is for Home page css
             font-size: 22px;
             font-weight: bold;
             text-align: left;
-            color:#2544a8 ;
+            color: #9d18f5b0;
         }
         .nav-links {
             list-style: none;
