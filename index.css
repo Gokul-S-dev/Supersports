@@ -72,6 +72,12 @@ This section is for Product page css
     background-color: #2544a8;
     
 }
+.product-lists{
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    flex-wrap: wrap;
+}
 .product-title{
     color:aliceblue;
     text-align: center;
